@@ -1,0 +1,76 @@
+= 1.5.7 [24th September 2023] =
+
+* Updated: Hover Video improved (Thanks to Daniel)
+
+= 1.5.6 [12th August 2023] =
+
+* Updated: System Improved for Better Performance
+* Updated: WordPress Compatibility added
+
+= 1.5.5 [13th May 2023] =
+
+* Added: Elementor 3.13.2 Compatibility added
+
+= 1.5.4 [1st April 2023] =
+
+* Added: WordPress 6.2 Compatibility added
+* Added: Elementor 3.12.0 Compatibility added
+
+= 1.5.3 [05th February 2023] =
+
+* Added: Z-Index option added in Confetti Effects Extensions
+* Added: Thumbnail option added in Flow Slider
+* Updated: System Improved for Better Performance
+* Updated: Confetti Effects extensions improved
+
+= 1.5.2 [10th January 2023] =
+
+* Fixed: Deprecation issue fixed
+
+= 1.5.1 [10th December 2022] =
+
+* Updated: Container Support added in Particles Effects & Confetti Effects Extensions
+
+= 1.5.0 [1st November 2022] =
+
+* Added: Hover Video Widget Added
+* Added: Bar Chart Widget Added
+* Added: Line Chart Widget Added
+* Added: Polar Area Chart Widget Added
+* Added: Radar Chart Widget Added
+* Added: Pie & Doughnut Chart Widget Added
+* Added: Remote Arrows Widget Added
+* Added: Remote Pagination Widget Added
+* Added: Remote Thumbs Widget Added
+
+= 1.0.6 [24th September 2022] =
+
+* Updated: System Improved.
+
+= 1.0.5 [8th August 2022] =
+
+* Added: Confetti Effects Extensions added
+
+= 1.0.4 [13 June 2022] =
+
+* Added: Currency Format added in Pricing Table Widget
+* Removed: Price Postfix Deprecated in Pricing Table Widget
+
+= 1.0.3 [17th May 2022] =
+
+* Added: Flow Slider Widget added
+* Added: Pace Slider Widget added
+* Added: Full window feature added in Video Gallery Widget (Thanks to Post Joe)
+
+= 1.0.2 [9th April 2022] =
+
+* Added: Review Carousel added
+* Added: Testimonial Carousel added
+
+= 1.0.1 [18 March 2022] =
+
+* Added: Dark Mode Widget added
+
+= 1.0.0 [09 March 2022] =
+
+*  Initial Release

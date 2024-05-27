@@ -1,0 +1,2792 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Techfyd
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <support@techfyd.com>, YEAR.
+#
+#: modules/advanced-tooltip/module.php:371
+#: modules/advanced-tooltip/module.php:395
+#: modules/breadcrumbs/widgets/breadcrumbs.php:105
+#: modules/breadcrumbs/widgets/breadcrumbs.php:121
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Techfyd v1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-09 01:57+0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <support@techfyd.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: plugin.php:54 plugin.php:66 base/module-base.php:32 base/module-base.php:43
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: plugin.php:241
+msgid "Sky Addons Pro"
+msgstr ""
+
+#: sky-elementor-addons-pro.php:87
+msgid ""
+"Sky Elementor Addons is not working because you need to activate the "
+"Elementor plugin."
+msgstr ""
+
+#: sky-elementor-addons-pro.php:88
+msgid "Activate Elementor Now"
+msgstr ""
+
+#: sky-elementor-addons-pro.php:96
+msgid ""
+"Sky Elementor Addons is not working because you need to install the Elemenor "
+"plugin"
+msgstr ""
+
+#: sky-elementor-addons-pro.php:97
+msgid "Install Elementor Now"
+msgstr ""
+
+#: sky-elementor-addons-pro.php:119
+msgid ""
+"Sky Elementor Addons is not working because you are using an old version of "
+"Elementor."
+msgstr ""
+
+#: sky-elementor-addons-pro.php:120 sky-elementor-addons-pro.php:276
+msgid "Update Elementor Now"
+msgstr ""
+
+#: sky-elementor-addons-pro.php:243
+msgid ""
+"Sky Elementor Addons Pro is not working because you need to activate the Sky "
+"Elementor Addons plugin."
+msgstr ""
+
+#: sky-elementor-addons-pro.php:244
+msgid "Activate Sky Elementor Addons Now"
+msgstr ""
+
+#: sky-elementor-addons-pro.php:252
+msgid ""
+"Sky Elementor Addons Pro is not working because you need to install the Sky "
+"Elementor Addons plugin."
+msgstr ""
+
+#: sky-elementor-addons-pro.php:253
+msgid "Install Sky Elementor Addons Now"
+msgstr ""
+
+#: sky-elementor-addons-pro.php:275
+msgid ""
+"Sky Elementor Addons Pro is not working properly because you are using an "
+"old version of Sky Elementor Addons."
+msgstr ""
+
+#: includes/admin.php:44
+msgid "License"
+msgstr ""
+
+#: includes/admin.php:80
+msgid "Advanced Accordion"
+msgstr ""
+
+#: includes/admin.php:91 modules/advanced-counter/module.info.php:7
+#: modules/advanced-counter/widgets/advanced-counter.php:31
+#: modules/advanced-counter/widgets/advanced-counter.php:374
+msgid "Advanced Counter"
+msgstr ""
+
+#: includes/admin.php:102
+msgid "Advanced Skill Bars"
+msgstr ""
+
+#: includes/admin.php:113
+msgid "Advanced Slider"
+msgstr ""
+
+#: includes/admin.php:124 modules/breadcrumbs/module.info.php:7
+#: modules/breadcrumbs/widgets/breadcrumbs.php:24
+#: modules/breadcrumbs/widgets/breadcrumbs.php:49
+#: modules/breadcrumbs/widgets/breadcrumbs.php:258
+msgid "Breadcrumbs"
+msgstr ""
+
+#: includes/admin.php:135
+msgid "Card"
+msgstr ""
+
+#: includes/admin.php:146
+msgid "Dual Button"
+msgstr ""
+
+#: includes/admin.php:157
+msgid "Image Compare"
+msgstr ""
+
+#: includes/admin.php:168
+msgid "Info Box"
+msgstr ""
+
+#: includes/admin.php:179
+msgid "List Group"
+msgstr ""
+
+#: includes/admin.php:190
+msgid "Logo Grid"
+msgstr ""
+
+#: includes/admin.php:201
+msgid "Momentum Slider"
+msgstr ""
+
+#: includes/admin.php:212
+#: modules/advanced-counter/widgets/advanced-counter.php:895
+msgid "Number"
+msgstr ""
+
+#: includes/admin.php:223
+msgid "Portion Effect"
+msgstr ""
+
+#: includes/admin.php:234
+msgid "Reading Progress"
+msgstr ""
+
+#: includes/admin.php:245
+#: modules/review-carousel/widgets/review-carousel.php:98
+#: modules/review-carousel/widgets/review-carousel.php:167
+#: modules/review-carousel/widgets/review-carousel.php:1225
+msgid "Review"
+msgstr ""
+
+#: includes/admin.php:256
+msgid "Social Icons"
+msgstr ""
+
+#: includes/admin.php:267
+msgid "Step Flow"
+msgstr ""
+
+#: includes/admin.php:278
+msgid "Team Member"
+msgstr ""
+
+#: includes/admin.php:289
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:58
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:91
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:98
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:519
+msgid "Testimonial"
+msgstr ""
+
+#: includes/admin.php:300
+msgid "Tidy List"
+msgstr ""
+
+#: includes/admin.php:311 modules/video-gallery/module.info.php:7
+#: modules/video-gallery/widgets/video-gallery.php:30
+#: modules/video-gallery/widgets/video-gallery.php:61
+msgid "Video Gallery"
+msgstr ""
+
+#: includes/admin.php:326 modules/advanced-tooltip/module.info.php:5
+#: modules/advanced-tooltip/module.php:39
+msgid "Advanced Tooltip"
+msgstr ""
+
+#: includes/admin.php:337
+msgid "Floating Effects"
+msgstr ""
+
+#: includes/admin.php:348
+msgid "Particles"
+msgstr ""
+
+#: includes/admin.php:359
+msgid "Wrapper Link"
+msgstr ""
+
+#: includes/admin.php:373
+msgid "Mailchimp"
+msgstr ""
+
+#: includes/admin.php:374
+msgid "Access Key"
+msgstr ""
+
+#: includes/admin.php:375
+msgid ""
+"Mailchimp Activate the sections and features of this plugin by activating "
+"from the following list."
+msgstr ""
+
+#: includes/admin.php:384
+msgid "Google Map"
+msgstr ""
+
+#: includes/admin.php:385
+msgid "API Key"
+msgstr ""
+
+#: includes/admin.php:386
+msgid ""
+"Google Map Activate the sections and features of this plugin by activating "
+"from the following list."
+msgstr ""
+
+#: includes/admin.php:395
+msgid "Facebook Page Name"
+msgstr ""
+
+#: includes/admin.php:396
+msgid "Page Name"
+msgstr ""
+
+#: includes/admin.php:397
+msgid ""
+"Page Name Activate the sections and features of this plugin by activating "
+"from the following list."
+msgstr ""
+
+#: includes/admin.php:404
+msgid "Facebook Access"
+msgstr ""
+
+#: includes/admin.php:405
+msgid "Access Token"
+msgstr ""
+
+#: includes/admin.php:406
+msgid ""
+"Access Token Activate the sections and features of this plugin by activating "
+"from the following list."
+msgstr ""
+
+#: includes/admin.php:475
+msgid "Successfully Updated."
+msgstr ""
+
+#: includes/admin.php:476
+msgid "Great, your settings saved successfully in your system."
+msgstr ""
+
+#: includes/admin.php:479
+msgid "Already Updated."
+msgstr ""
+
+#: includes/admin.php:480
+msgid ""
+"There is no change in your settings. So there is no need to save the "
+"settings again."
+msgstr ""
+
+#: includes/functions.php:89
+msgid "Edit Template"
+msgstr ""
+
+#: includes/functions.php:107
+msgid "Template Not Found!"
+msgstr ""
+
+#: includes/functions.php:109 includes/functions.php:135
+msgid "Select Template"
+msgstr ""
+
+#: includes/functions.php:141
+msgid "AE Plugin Not Installed"
+msgstr ""
+
+#: includes/license-manager.php:39
+msgid ""
+"<strong>License Error! Sky Elementor Addons Pro not activated.</strong> "
+"Please activate it to enable premium features. Otherwise, it's will not work "
+"properly. <a href=\""
+msgstr ""
+
+#: includes/license-manager.php:78
+msgid "Lifetime"
+msgstr ""
+
+#: includes/license-manager.php:91
+msgid "Sky Addons Pro License Info"
+msgstr ""
+
+#: includes/license-manager.php:97
+msgid "Status"
+msgstr ""
+
+#: includes/license-manager.php:100
+msgid "Valid"
+msgstr ""
+
+#: includes/license-manager.php:102
+msgid "Invalid"
+msgstr ""
+
+#: includes/license-manager.php:109
+msgid "License Type"
+msgstr ""
+
+#: includes/license-manager.php:116
+msgid "License Expired on"
+msgstr ""
+
+#: includes/license-manager.php:130
+msgid " Days remaining"
+msgstr ""
+
+#: includes/license-manager.php:141
+msgid "Support Expired on"
+msgstr ""
+
+#: includes/license-manager.php:154
+msgid "Your License Key"
+msgstr ""
+
+#: includes/license-manager.php:175
+msgid "Sky Addons Pro Licensing"
+msgstr ""
+
+#: includes/license-manager.php:187
+msgid ""
+"Enter your license key here, to activate the product, and get full feature "
+"updates and premium support."
+msgstr ""
+
+#: includes/license-manager.php:189
+msgid ""
+"License Key is very important for you. Otherwise, you will not able to use "
+"premium features."
+msgstr ""
+
+#: includes/license-manager.php:191
+msgid "Please collect your license key from FastSpring / Codecanyon account."
+msgstr ""
+
+#: includes/license-manager.php:193
+msgid "Envato Purchase code would be the License key for Envato users."
+msgstr ""
+
+#: includes/license-manager.php:195
+msgid ""
+"If you don't have license key, please collect it from here - <a "
+"target='_blank' href='https://skyaddons.com/'>https://skyaddons.com/</a>"
+msgstr ""
+
+#: includes/license-manager.php:197
+msgid ""
+"FastSpring users account link - <a target='_blank' href='https://techfyd."
+"onfastspring.com/account/'>https://techfyd.onfastspring.com/account/</a>"
+msgstr ""
+
+#: includes/license-manager.php:199
+msgid ""
+"Open Support Ticket - <a target='_blank' href='https://techfyd.com/"
+"support/'>https://techfyd.com/support/</a>"
+msgstr ""
+
+#: includes/license-manager.php:203
+msgid "License code"
+msgstr ""
+
+#: includes/license-manager.php:207
+msgid "Email Address"
+msgstr ""
+
+#: includes/license-manager.php:212
+msgid ""
+"We will send update news of this product by this email address, don't worry, "
+"we hate spam"
+msgstr ""
+
+#: includes/license-manager.php:228
+msgid ""
+"Sky Elementor Addons Pro is going to expire in <b class=\"sa-text-danger sa-"
+"fw-bolder\">"
+msgstr ""
+
+#: includes/views/admin/license.php:2
+msgid "License Settings"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:67
+#: modules/dark-mode/widgets/dark-mode.php:57
+#: modules/review-carousel/widgets/review-carousel.php:64
+#: modules/video-gallery/widgets/video-gallery.php:69
+msgid "Layout"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:75
+#: modules/pricing-table/widgets/pricing-table.php:151
+#: modules/pricing-table/widgets/pricing-table.php:434
+msgid "Media Type"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:80
+#: modules/pricing-table/widgets/pricing-table.php:156
+#: modules/pricing-table/widgets/pricing-table.php:439
+#: modules/pricing-table/widgets/pricing-table.php:820
+#: modules/pricing-table/widgets/pricing-table.php:1595
+#: modules/review-carousel/widgets/review-carousel.php:217
+msgid "Icon"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:84
+#: modules/pricing-table/widgets/pricing-table.php:160
+#: modules/pricing-table/widgets/pricing-table.php:443
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:650
+msgid "Image"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:97
+#: modules/pricing-table/widgets/pricing-table.php:176
+#: modules/pricing-table/widgets/pricing-table.php:468
+#: modules/review-carousel/widgets/review-carousel.php:106
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:120
+msgid "Choose Image"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:136
+#: modules/pricing-table/widgets/pricing-table.php:649
+msgid "Media Position"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:141
+#: modules/advanced-counter/widgets/advanced-counter.php:386
+#: modules/advanced-tooltip/module.php:101
+#: modules/advanced-tooltip/module.php:500
+#: modules/breadcrumbs/widgets/breadcrumbs.php:60
+#: modules/particles/module.php:95
+#: modules/pricing-table/widgets/pricing-table.php:384
+#: modules/pricing-table/widgets/pricing-table.php:564
+#: modules/pricing-table/widgets/pricing-table.php:654
+#: modules/pricing-table/widgets/pricing-table.php:695
+#: modules/pricing-table/widgets/pricing-table.php:792
+#: modules/pricing-table/widgets/pricing-table.php:990
+#: modules/pricing-table/widgets/pricing-table.php:1074
+#: modules/pricing-table/widgets/pricing-table.php:2386
+#: modules/pricing-table/widgets/pricing-table.php:3329
+#: modules/review-carousel/widgets/review-carousel.php:428
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:264
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:531
+#: modules/video-gallery/widgets/video-gallery.php:512
+msgid "Left"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:145
+#: modules/advanced-counter/widgets/advanced-counter.php:167
+#: modules/particles/module.php:89
+#: modules/pricing-table/widgets/pricing-table.php:561
+#: modules/pricing-table/widgets/pricing-table.php:658
+#: modules/pricing-table/widgets/pricing-table.php:1829
+#: modules/pricing-table/widgets/pricing-table.php:1937
+#: modules/pricing-table/widgets/pricing-table.php:2046
+#: modules/pricing-table/widgets/pricing-table.php:2159
+msgid "Top"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:149
+#: modules/advanced-counter/widgets/advanced-counter.php:394
+#: modules/advanced-tooltip/module.php:93
+#: modules/advanced-tooltip/module.php:508
+#: modules/breadcrumbs/widgets/breadcrumbs.php:68
+#: modules/particles/module.php:91
+#: modules/pricing-table/widgets/pricing-table.php:392
+#: modules/pricing-table/widgets/pricing-table.php:562
+#: modules/pricing-table/widgets/pricing-table.php:666
+#: modules/pricing-table/widgets/pricing-table.php:703
+#: modules/pricing-table/widgets/pricing-table.php:800
+#: modules/pricing-table/widgets/pricing-table.php:991
+#: modules/pricing-table/widgets/pricing-table.php:1082
+#: modules/pricing-table/widgets/pricing-table.php:2394
+#: modules/pricing-table/widgets/pricing-table.php:3337
+#: modules/review-carousel/widgets/review-carousel.php:436
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:272
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:539
+#: modules/video-gallery/widgets/video-gallery.php:520
+msgid "Right"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:163
+msgid "Vertical Alignment"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:171
+#: modules/advanced-counter/widgets/advanced-counter.php:390
+#: modules/advanced-tooltip/module.php:504
+#: modules/breadcrumbs/widgets/breadcrumbs.php:64
+#: modules/pricing-table/widgets/pricing-table.php:388
+#: modules/pricing-table/widgets/pricing-table.php:699
+#: modules/pricing-table/widgets/pricing-table.php:796
+#: modules/pricing-table/widgets/pricing-table.php:1078
+#: modules/pricing-table/widgets/pricing-table.php:2390
+#: modules/pricing-table/widgets/pricing-table.php:3333
+#: modules/review-carousel/widgets/review-carousel.php:432
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:268
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:535
+#: modules/video-gallery/widgets/video-gallery.php:516
+msgid "Center"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:175
+#: modules/advanced-tooltip/module.php:97 modules/particles/module.php:93
+#: modules/pricing-table/widgets/pricing-table.php:368
+#: modules/pricing-table/widgets/pricing-table.php:563
+#: modules/pricing-table/widgets/pricing-table.php:662
+#: modules/pricing-table/widgets/pricing-table.php:1837
+#: modules/pricing-table/widgets/pricing-table.php:1945
+#: modules/pricing-table/widgets/pricing-table.php:2054
+#: modules/pricing-table/widgets/pricing-table.php:2167
+msgid "Bottom"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:199
+#: modules/advanced-counter/widgets/advanced-counter.php:985
+#: modules/pricing-table/widgets/pricing-table.php:75
+#: modules/pricing-table/widgets/pricing-table.php:487
+#: modules/pricing-table/widgets/pricing-table.php:539
+#: modules/pricing-table/widgets/pricing-table.php:1286
+#: modules/pricing-table/widgets/pricing-table.php:3408
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:155
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:828
+#: modules/video-gallery/widgets/video-gallery.php:268
+msgid "Title"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:201
+msgid "SKY NUMBER"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:202
+#: modules/pricing-table/widgets/pricing-table.php:909
+msgid "Type your title here"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:211
+#: modules/pricing-table/widgets/pricing-table.php:86
+#: modules/pricing-table/widgets/pricing-table.php:725
+#: modules/video-gallery/widgets/video-gallery.php:463
+#: modules/video-gallery/widgets/video-gallery.php:583
+msgid "Title HTML Tag"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:222
+msgid "Counter Start Value"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:224
+msgid "0"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:233
+msgid "Counter End Value"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:235
+#: modules/advanced-counter/widgets/advanced-counter.php:236
+msgid "1000"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:244
+msgid "Show Divider"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:257
+msgid "Counter Settings"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:265
+msgid "Decimal places"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:274
+msgid "Decimal Symbols"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:276
+msgid "."
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:284
+msgid "Duration (ms)"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:299
+msgid "Use Easing"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:308
+msgid "Use Grouping"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:317
+msgid "Grouping Separator"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:319
+msgid ","
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:330
+msgid "Prefix"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:332
+msgid "Your Prefix"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:340
+msgid "Suffix"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:342
+msgid "Your Suffix"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:350
+msgid "Numerals / Custom Language"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:353
+msgid "0,1,2,3,4,5,6,7,8,9"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:363
+msgid ""
+"Highly customizeable with a large range of options, you can even substitute "
+"numerals. <strong>It supports any Language.</strong>"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:382
+#: modules/advanced-tooltip/module.php:496
+#: modules/breadcrumbs/widgets/breadcrumbs.php:56
+#: modules/pricing-table/widgets/pricing-table.php:380
+#: modules/pricing-table/widgets/pricing-table.php:788
+#: modules/pricing-table/widgets/pricing-table.php:1069
+#: modules/pricing-table/widgets/pricing-table.php:2381
+#: modules/pricing-table/widgets/pricing-table.php:3324
+#: modules/review-carousel/widgets/review-carousel.php:424
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:260
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:527
+msgid "Alignment"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:398
+#: modules/advanced-tooltip/module.php:512
+#: modules/pricing-table/widgets/pricing-table.php:804
+#: modules/pricing-table/widgets/pricing-table.php:3341
+#: modules/review-carousel/widgets/review-carousel.php:440
+#: modules/video-gallery/widgets/video-gallery.php:524
+msgid "Justified"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:411
+msgid "Content Padding"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:425
+#: modules/pricing-table/widgets/pricing-table.php:134
+#: modules/pricing-table/widgets/pricing-table.php:1501
+msgid "Image / Icon"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:433
+#: modules/video-gallery/widgets/video-gallery.php:795
+msgid "Icon Size"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:459
+#: modules/breadcrumbs/widgets/breadcrumbs.php:265
+#: modules/pricing-table/widgets/pricing-table.php:1536
+#: modules/pricing-table/widgets/pricing-table.php:2619
+#: modules/pricing-table/widgets/pricing-table.php:2833
+#: modules/pricing-table/widgets/pricing-table.php:3547
+#: modules/review-carousel/widgets/review-carousel.php:1020
+#: modules/review-carousel/widgets/review-carousel.php:1127
+#: modules/review-carousel/widgets/review-carousel.php:1233
+#: modules/review-carousel/widgets/review-carousel.php:1319
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:680
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:780
+#: modules/video-gallery/widgets/video-gallery.php:716
+msgid "Spacing"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:482
+#: modules/advanced-counter/widgets/advanced-counter.php:1114
+#: modules/pricing-table/widgets/pricing-table.php:3305
+#: modules/review-carousel/widgets/review-carousel.php:733
+#: modules/video-gallery/widgets/video-gallery.php:1086
+msgid "Width"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:508
+#: modules/advanced-counter/widgets/advanced-counter.php:1136
+#: modules/pricing-table/widgets/pricing-table.php:2436
+#: modules/review-carousel/widgets/review-carousel.php:714
+msgid "Height"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:527
+#: modules/advanced-tooltip/module.php:119
+#: modules/dark-mode/widgets/dark-mode.php:173
+#: modules/pricing-table/widgets/pricing-table.php:1133
+#: modules/review-carousel/widgets/review-carousel.php:756
+msgid "Offset"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:529
+#: modules/advanced-tooltip/module.php:121
+#: modules/advanced-tooltip/module.php:181
+#: modules/advanced-tooltip/module.php:297
+#: modules/dark-mode/widgets/dark-mode.php:65
+#: modules/dark-mode/widgets/dark-mode.php:85
+#: modules/dark-mode/widgets/dark-mode.php:175
+#: modules/review-carousel/widgets/review-carousel.php:758
+msgid "Default"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:530
+#: modules/advanced-tooltip/module.php:122
+#: modules/advanced-tooltip/module.php:182
+#: modules/advanced-tooltip/module.php:298
+#: modules/dark-mode/widgets/dark-mode.php:176 modules/particles/module.php:71
+#: modules/pricing-table/widgets/pricing-table.php:265
+#: modules/review-carousel/widgets/review-carousel.php:759
+msgid "Custom"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:541
+#: modules/dark-mode/widgets/dark-mode.php:187
+#: modules/review-carousel/widgets/review-carousel.php:770
+msgid "Horizontal Offset"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:572
+#: modules/dark-mode/widgets/dark-mode.php:217
+#: modules/review-carousel/widgets/review-carousel.php:801
+msgid "Vertical Offset"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:603
+#: modules/review-carousel/widgets/review-carousel.php:832
+msgid "Rotate"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:639
+#: modules/advanced-tooltip/module.php:552
+#: modules/breadcrumbs/widgets/breadcrumbs.php:282
+#: modules/breadcrumbs/widgets/breadcrumbs.php:788
+#: modules/pricing-table/widgets/pricing-table.php:1240
+#: modules/pricing-table/widgets/pricing-table.php:1559
+#: modules/pricing-table/widgets/pricing-table.php:1715
+#: modules/pricing-table/widgets/pricing-table.php:2261
+#: modules/pricing-table/widgets/pricing-table.php:2349
+#: modules/pricing-table/widgets/pricing-table.php:2454
+#: modules/pricing-table/widgets/pricing-table.php:2637
+#: modules/pricing-table/widgets/pricing-table.php:2898
+#: modules/pricing-table/widgets/pricing-table.php:3028
+#: modules/pricing-table/widgets/pricing-table.php:3061
+#: modules/pricing-table/widgets/pricing-table.php:3364
+#: modules/review-carousel/widgets/review-carousel.php:471
+#: modules/review-carousel/widgets/review-carousel.php:867
+#: modules/review-carousel/widgets/review-carousel.php:1410
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:306
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:555
+#: modules/video-gallery/widgets/video-gallery.php:685
+#: modules/video-gallery/widgets/video-gallery.php:764
+#: modules/video-gallery/widgets/video-gallery.php:813
+msgid "Padding"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:653
+#: modules/advanced-tooltip/module.php:567
+#: modules/breadcrumbs/widgets/breadcrumbs.php:294
+#: modules/breadcrumbs/widgets/breadcrumbs.php:469
+#: modules/breadcrumbs/widgets/breadcrumbs.php:630
+#: modules/breadcrumbs/widgets/breadcrumbs.php:800
+#: modules/pricing-table/widgets/pricing-table.php:1265
+#: modules/pricing-table/widgets/pricing-table.php:1573
+#: modules/pricing-table/widgets/pricing-table.php:2290
+#: modules/pricing-table/widgets/pricing-table.php:2651
+#: modules/pricing-table/widgets/pricing-table.php:2916
+#: modules/pricing-table/widgets/pricing-table.php:3084
+#: modules/pricing-table/widgets/pricing-table.php:3377
+#: modules/review-carousel/widgets/review-carousel.php:484
+#: modules/review-carousel/widgets/review-carousel.php:880
+#: modules/review-carousel/widgets/review-carousel.php:1423
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:319
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:618
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:702
+#: modules/video-gallery/widgets/video-gallery.php:826
+#: modules/video-gallery/widgets/video-gallery.php:1105
+msgid "Border"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:661
+#: modules/advanced-counter/widgets/advanced-counter.php:1154
+#: modules/advanced-tooltip/module.php:577
+#: modules/breadcrumbs/widgets/breadcrumbs.php:301
+#: modules/breadcrumbs/widgets/breadcrumbs.php:476
+#: modules/breadcrumbs/widgets/breadcrumbs.php:637
+#: modules/breadcrumbs/widgets/breadcrumbs.php:807
+#: modules/pricing-table/widgets/pricing-table.php:1273
+#: modules/pricing-table/widgets/pricing-table.php:1582
+#: modules/pricing-table/widgets/pricing-table.php:2301
+#: modules/pricing-table/widgets/pricing-table.php:2660
+#: modules/pricing-table/widgets/pricing-table.php:2927
+#: modules/pricing-table/widgets/pricing-table.php:3092
+#: modules/pricing-table/widgets/pricing-table.php:3196
+#: modules/pricing-table/widgets/pricing-table.php:3385
+#: modules/review-carousel/widgets/review-carousel.php:492
+#: modules/review-carousel/widgets/review-carousel.php:888
+#: modules/review-carousel/widgets/review-carousel.php:1431
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:327
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:626
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:710
+#: modules/video-gallery/widgets/video-gallery.php:834
+#: modules/video-gallery/widgets/video-gallery.php:1113
+msgid "Border Radius"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:677
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:725
+msgid "Advanced Border Radius"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:685
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:733
+msgid "Radius"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:687
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:735
+msgid "30% 70% 70% 30% / 30% 30% 70% 70% "
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:703
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:750
+#, php-format
+msgid ""
+"You can easily generate Radius value from this link <a href='%1s' "
+"target='_blank'> Go </a>."
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:716
+#: modules/advanced-tooltip/module.php:615
+#: modules/breadcrumbs/widgets/breadcrumbs.php:356
+#: modules/breadcrumbs/widgets/breadcrumbs.php:412
+#: modules/breadcrumbs/widgets/breadcrumbs.php:541
+#: modules/breadcrumbs/widgets/breadcrumbs.php:607
+#: modules/breadcrumbs/widgets/breadcrumbs.php:692
+#: modules/breadcrumbs/widgets/breadcrumbs.php:748
+#: modules/pricing-table/widgets/pricing-table.php:2317
+#: modules/pricing-table/widgets/pricing-table.php:2552
+#: modules/pricing-table/widgets/pricing-table.php:2580
+#: modules/pricing-table/widgets/pricing-table.php:3144
+#: modules/pricing-table/widgets/pricing-table.php:3218
+#: modules/pricing-table/widgets/pricing-table.php:3398
+#: modules/review-carousel/widgets/review-carousel.php:526
+#: modules/review-carousel/widgets/review-carousel.php:572
+#: modules/review-carousel/widgets/review-carousel.php:635
+#: modules/review-carousel/widgets/review-carousel.php:901
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:361
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:407
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:470
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:639
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:762
+#: modules/video-gallery/widgets/video-gallery.php:886
+#: modules/video-gallery/widgets/video-gallery.php:949
+msgid "Box Shadow"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:727
+#: modules/advanced-counter/widgets/advanced-counter.php:940
+#: modules/advanced-counter/widgets/advanced-counter.php:1007
+#: modules/breadcrumbs/widgets/breadcrumbs.php:322
+#: modules/breadcrumbs/widgets/breadcrumbs.php:497
+#: modules/breadcrumbs/widgets/breadcrumbs.php:658
+#: modules/dark-mode/widgets/dark-mode.php:355
+#: modules/dark-mode/widgets/dark-mode.php:444
+#: modules/dark-mode/widgets/dark-mode.php:541
+#: modules/pricing-table/widgets/pricing-table.php:427
+#: modules/pricing-table/widgets/pricing-table.php:1344
+#: modules/pricing-table/widgets/pricing-table.php:1438
+#: modules/pricing-table/widgets/pricing-table.php:1606
+#: modules/pricing-table/widgets/pricing-table.php:2534
+#: modules/pricing-table/widgets/pricing-table.php:2684
+#: modules/pricing-table/widgets/pricing-table.php:3106
+#: modules/review-carousel/widgets/review-carousel.php:506
+#: modules/review-carousel/widgets/review-carousel.php:912
+#: modules/review-carousel/widgets/review-carousel.php:1054
+#: modules/review-carousel/widgets/review-carousel.php:1161
+#: modules/review-carousel/widgets/review-carousel.php:1267
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:341
+#: modules/video-gallery/widgets/video-gallery.php:848
+#: modules/video-gallery/widgets/video-gallery.php:1017
+#: modules/video-gallery/widgets/video-gallery.php:1147
+#: modules/video-gallery/widgets/video-gallery.php:1230
+#: modules/video-gallery/widgets/video-gallery.php:1323
+msgid "Normal"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:734
+#: modules/advanced-counter/widgets/advanced-counter.php:801
+#: modules/pricing-table/widgets/pricing-table.php:1614
+#: modules/pricing-table/widgets/pricing-table.php:1649
+msgid "Icon Color"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:750
+#: modules/advanced-counter/widgets/advanced-counter.php:817
+#: modules/advanced-tooltip/module.php:541
+#: modules/breadcrumbs/widgets/breadcrumbs.php:339
+#: modules/breadcrumbs/widgets/breadcrumbs.php:382
+#: modules/breadcrumbs/widgets/breadcrumbs.php:524
+#: modules/breadcrumbs/widgets/breadcrumbs.php:577
+#: modules/breadcrumbs/widgets/breadcrumbs.php:675
+#: modules/breadcrumbs/widgets/breadcrumbs.php:718
+#: modules/breadcrumbs/widgets/breadcrumbs.php:780
+#: modules/dark-mode/widgets/dark-mode.php:259
+#: modules/dark-mode/widgets/dark-mode.php:557
+#: modules/dark-mode/widgets/dark-mode.php:576
+#: modules/dark-mode/widgets/dark-mode.php:603
+#: modules/dark-mode/widgets/dark-mode.php:621
+#: modules/pricing-table/widgets/pricing-table.php:1231
+#: modules/pricing-table/widgets/pricing-table.php:1630
+#: modules/pricing-table/widgets/pricing-table.php:1665
+#: modules/pricing-table/widgets/pricing-table.php:1706
+#: modules/pricing-table/widgets/pricing-table.php:2277
+#: modules/pricing-table/widgets/pricing-table.php:2340
+#: modules/pricing-table/widgets/pricing-table.php:2542
+#: modules/pricing-table/widgets/pricing-table.php:2570
+#: modules/pricing-table/widgets/pricing-table.php:2705
+#: modules/pricing-table/widgets/pricing-table.php:2737
+#: modules/pricing-table/widgets/pricing-table.php:2885
+#: modules/pricing-table/widgets/pricing-table.php:3019
+#: modules/pricing-table/widgets/pricing-table.php:3125
+#: modules/pricing-table/widgets/pricing-table.php:3173
+#: modules/pricing-table/widgets/pricing-table.php:3355
+#: modules/pricing-table/widgets/pricing-table.php:3582
+#: modules/review-carousel/widgets/review-carousel.php:514
+#: modules/review-carousel/widgets/review-carousel.php:562
+#: modules/review-carousel/widgets/review-carousel.php:625
+#: modules/review-carousel/widgets/review-carousel.php:1401
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:349
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:397
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:460
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:608
+#: modules/video-gallery/widgets/video-gallery.php:667
+#: modules/video-gallery/widgets/video-gallery.php:746
+#: modules/video-gallery/widgets/video-gallery.php:867
+#: modules/video-gallery/widgets/video-gallery.php:916
+#: modules/video-gallery/widgets/video-gallery.php:1025
+#: modules/video-gallery/widgets/video-gallery.php:1044
+#: modules/video-gallery/widgets/video-gallery.php:1063
+#: modules/video-gallery/widgets/video-gallery.php:1342
+#: modules/video-gallery/widgets/video-gallery.php:1373
+msgid "Background"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:762
+#: modules/advanced-counter/widgets/advanced-counter.php:829
+#: modules/review-carousel/widgets/review-carousel.php:534
+#: modules/review-carousel/widgets/review-carousel.php:580
+#: modules/review-carousel/widgets/review-carousel.php:643
+#: modules/review-carousel/widgets/review-carousel.php:919
+#: modules/review-carousel/widgets/review-carousel.php:954
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:369
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:415
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:478
+msgid "Opacity"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:794
+#: modules/advanced-counter/widgets/advanced-counter.php:960
+#: modules/advanced-counter/widgets/advanced-counter.php:1037
+#: modules/breadcrumbs/widgets/breadcrumbs.php:365
+#: modules/breadcrumbs/widgets/breadcrumbs.php:550
+#: modules/breadcrumbs/widgets/breadcrumbs.php:701
+#: modules/pricing-table/widgets/pricing-table.php:1374
+#: modules/pricing-table/widgets/pricing-table.php:1468
+#: modules/pricing-table/widgets/pricing-table.php:1642
+#: modules/pricing-table/widgets/pricing-table.php:2562
+#: modules/pricing-table/widgets/pricing-table.php:2717
+#: modules/pricing-table/widgets/pricing-table.php:3154
+#: modules/review-carousel/widgets/review-carousel.php:554
+#: modules/review-carousel/widgets/review-carousel.php:947
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:389
+#: modules/video-gallery/widgets/video-gallery.php:896
+#: modules/video-gallery/widgets/video-gallery.php:1036
+#: modules/video-gallery/widgets/video-gallery.php:1167
+#: modules/video-gallery/widgets/video-gallery.php:1250
+#: modules/video-gallery/widgets/video-gallery.php:1353
+msgid "Hover"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:859
+#: modules/review-carousel/widgets/review-carousel.php:980
+msgid "Transition Duration (s)"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:878
+#: modules/review-carousel/widgets/review-carousel.php:997
+msgid "Hover Animation"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:906
+#: modules/advanced-counter/widgets/advanced-counter.php:1081
+#: modules/pricing-table/widgets/pricing-table.php:1297
+#: modules/pricing-table/widgets/pricing-table.php:2759
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:567
+msgid "Bottom Spacing"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:930
+#: modules/advanced-counter/widgets/advanced-counter.php:997
+#: modules/advanced-tooltip/module.php:593
+#: modules/breadcrumbs/widgets/breadcrumbs.php:313
+#: modules/breadcrumbs/widgets/breadcrumbs.php:488
+#: modules/breadcrumbs/widgets/breadcrumbs.php:649
+#: modules/breadcrumbs/widgets/breadcrumbs.php:819
+#: modules/dark-mode/widgets/dark-mode.php:434
+#: modules/pricing-table/widgets/pricing-table.php:1324
+#: modules/pricing-table/widgets/pricing-table.php:1419
+#: modules/pricing-table/widgets/pricing-table.php:1791
+#: modules/pricing-table/widgets/pricing-table.php:1899
+#: modules/pricing-table/widgets/pricing-table.php:2007
+#: modules/pricing-table/widgets/pricing-table.php:2119
+#: modules/pricing-table/widgets/pricing-table.php:2229
+#: modules/pricing-table/widgets/pricing-table.php:2804
+#: modules/pricing-table/widgets/pricing-table.php:2859
+#: modules/pricing-table/widgets/pricing-table.php:2968
+#: modules/pricing-table/widgets/pricing-table.php:3074
+#: modules/pricing-table/widgets/pricing-table.php:3272
+#: modules/pricing-table/widgets/pricing-table.php:3427
+#: modules/pricing-table/widgets/pricing-table.php:3456
+#: modules/pricing-table/widgets/pricing-table.php:3593
+#: modules/review-carousel/widgets/review-carousel.php:1044
+#: modules/review-carousel/widgets/review-carousel.php:1151
+#: modules/review-carousel/widgets/review-carousel.php:1257
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:588
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:820
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:849
+#: modules/video-gallery/widgets/video-gallery.php:677
+#: modules/video-gallery/widgets/video-gallery.php:756
+#: modules/video-gallery/widgets/video-gallery.php:1136
+#: modules/video-gallery/widgets/video-gallery.php:1220
+msgid "Typography"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:947
+#: modules/advanced-counter/widgets/advanced-counter.php:967
+#: modules/advanced-counter/widgets/advanced-counter.php:1014
+#: modules/advanced-counter/widgets/advanced-counter.php:1044
+#: modules/advanced-tooltip/module.php:527
+#: modules/breadcrumbs/widgets/breadcrumbs.php:328
+#: modules/breadcrumbs/widgets/breadcrumbs.php:371
+#: modules/breadcrumbs/widgets/breadcrumbs.php:513
+#: modules/breadcrumbs/widgets/breadcrumbs.php:566
+#: modules/breadcrumbs/widgets/breadcrumbs.php:664
+#: modules/breadcrumbs/widgets/breadcrumbs.php:707
+#: modules/pricing-table/widgets/pricing-table.php:1351
+#: modules/pricing-table/widgets/pricing-table.php:1381
+#: modules/pricing-table/widgets/pricing-table.php:1445
+#: modules/pricing-table/widgets/pricing-table.php:1475
+#: modules/pricing-table/widgets/pricing-table.php:1762
+#: modules/pricing-table/widgets/pricing-table.php:1870
+#: modules/pricing-table/widgets/pricing-table.php:1978
+#: modules/pricing-table/widgets/pricing-table.php:2088
+#: modules/pricing-table/widgets/pricing-table.php:2200
+#: modules/pricing-table/widgets/pricing-table.php:3113
+#: modules/pricing-table/widgets/pricing-table.php:3161
+#: modules/pricing-table/widgets/pricing-table.php:3260
+#: modules/pricing-table/widgets/pricing-table.php:3570
+#: modules/review-carousel/widgets/review-carousel.php:1061
+#: modules/review-carousel/widgets/review-carousel.php:1090
+#: modules/review-carousel/widgets/review-carousel.php:1168
+#: modules/review-carousel/widgets/review-carousel.php:1199
+#: modules/review-carousel/widgets/review-carousel.php:1274
+#: modules/review-carousel/widgets/review-carousel.php:1294
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:596
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:808
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:837
+#: modules/video-gallery/widgets/video-gallery.php:655
+#: modules/video-gallery/widgets/video-gallery.php:734
+#: modules/video-gallery/widgets/video-gallery.php:855
+#: modules/video-gallery/widgets/video-gallery.php:904
+#: modules/video-gallery/widgets/video-gallery.php:1154
+#: modules/video-gallery/widgets/video-gallery.php:1174
+#: modules/video-gallery/widgets/video-gallery.php:1194
+#: modules/video-gallery/widgets/video-gallery.php:1237
+#: modules/video-gallery/widgets/video-gallery.php:1257
+#: modules/video-gallery/widgets/video-gallery.php:1277
+msgid "Text Color"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:1026
+#: modules/advanced-counter/widgets/advanced-counter.php:1056
+#: modules/advanced-tooltip/module.php:604
+#: modules/breadcrumbs/widgets/breadcrumbs.php:348
+#: modules/breadcrumbs/widgets/breadcrumbs.php:404
+#: modules/breadcrumbs/widgets/breadcrumbs.php:533
+#: modules/breadcrumbs/widgets/breadcrumbs.php:599
+#: modules/breadcrumbs/widgets/breadcrumbs.php:684
+#: modules/breadcrumbs/widgets/breadcrumbs.php:740
+#: modules/pricing-table/widgets/pricing-table.php:1363
+#: modules/pricing-table/widgets/pricing-table.php:1393
+#: modules/pricing-table/widgets/pricing-table.php:1457
+#: modules/pricing-table/widgets/pricing-table.php:1487
+#: modules/pricing-table/widgets/pricing-table.php:1803
+#: modules/pricing-table/widgets/pricing-table.php:1911
+#: modules/pricing-table/widgets/pricing-table.php:2019
+#: modules/pricing-table/widgets/pricing-table.php:2132
+#: modules/pricing-table/widgets/pricing-table.php:2241
+#: modules/pricing-table/widgets/pricing-table.php:2813
+#: modules/pricing-table/widgets/pricing-table.php:2943
+#: modules/pricing-table/widgets/pricing-table.php:3135
+#: modules/pricing-table/widgets/pricing-table.php:3209
+#: modules/pricing-table/widgets/pricing-table.php:3284
+#: modules/review-carousel/widgets/review-carousel.php:1073
+#: modules/review-carousel/widgets/review-carousel.php:1102
+#: modules/review-carousel/widgets/review-carousel.php:1181
+#: modules/review-carousel/widgets/review-carousel.php:1211
+#: modules/video-gallery/widgets/video-gallery.php:698
+#: modules/video-gallery/widgets/video-gallery.php:777
+#: modules/video-gallery/widgets/video-gallery.php:877
+#: modules/video-gallery/widgets/video-gallery.php:940
+msgid "Text Shadow"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:1070
+#: modules/pricing-table/widgets/pricing-table.php:2466
+msgid "Divider"
+msgstr ""
+
+#: modules/advanced-counter/widgets/advanced-counter.php:1103
+#: modules/breadcrumbs/widgets/breadcrumbs.php:769
+#: modules/pricing-table/widgets/pricing-table.php:2497
+#: modules/pricing-table/widgets/pricing-table.php:2692
+#: modules/pricing-table/widgets/pricing-table.php:2724
+#: modules/pricing-table/widgets/pricing-table.php:2781
+#: modules/pricing-table/widgets/pricing-table.php:2870
+#: modules/pricing-table/widgets/pricing-table.php:2979
+#: modules/pricing-table/widgets/pricing-table.php:3415
+#: modules/pricing-table/widgets/pricing-table.php:3444
+#: modules/review-carousel/widgets/review-carousel.php:1377
+#: modules/video-gallery/widgets/video-gallery.php:1330
+#: modules/video-gallery/widgets/video-gallery.php:1360
+#: modules/video-gallery/widgets/video-gallery.php:1418
+msgid "Color"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:49 modules/particles/module.php:52
+msgid "Enable"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:60
+msgid "Settings"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:69
+#: modules/video-gallery/widgets/video-gallery.php:260
+msgid "Content"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:72
+msgid "I'm Tooltip text."
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:73
+msgid "Type your content here"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:85
+msgid "Placement"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:89
+msgid "Top (Default)"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:90
+msgid "Top-start"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:91
+msgid "Top-end"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:94
+msgid "Right-start"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:95
+msgid "Right-end"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:98
+msgid "Bottom-start"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:99
+msgid "Bottom-end"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:102
+msgid "Left-start"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:103
+msgid "Left-end"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:105
+#: modules/pricing-table/widgets/pricing-table.php:565
+msgid "Auto"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:106
+msgid "Auto-start"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:107
+msgid "Auto-end"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:136
+msgid "Offset X"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:156
+msgid "Offset Y"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:179
+msgid "Delay"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:196
+msgid "Show Delay (ms)"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:215
+msgid "Hide Delay (ms)"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:236
+msgid "Follow Cursor"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:248
+#: modules/pricing-table/widgets/pricing-table.php:1201
+msgid "Show Arrow"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:261
+#: modules/pricing-table/widgets/pricing-table.php:1118
+#: modules/pricing-table/widgets/pricing-table.php:3226
+msgid "Animation"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:265
+msgid "Fade (Default"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:267
+msgid "Shift Away"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:268
+msgid "Shift Away Subtle"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:269
+msgid "Shift Away Extreme"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:271
+msgid "Shift Toward"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:272
+msgid "Shift Toward Subtle"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:273
+msgid "Shift Toward Extreme"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:275
+#: modules/pricing-table/widgets/pricing-table.php:1124
+msgid "Scale"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:276
+msgid "Scale Subtle"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:277
+msgid "Scale Extreme"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:279
+#: modules/pricing-table/widgets/pricing-table.php:1125
+msgid "Perspective"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:280
+msgid "Perspective Subtle"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:281
+msgid "Perspective Extreme"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:283
+msgid "Animate Fill"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:295
+msgid "Animation Duration"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:312
+msgid "Show (ms)"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:331
+msgid "Hide (ms)"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:353
+msgid "Hide On Click"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:357
+msgid "Yes (Default)"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:358
+msgid "No"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:359
+#: modules/dark-mode/widgets/dark-mode.php:342
+msgid "Toggle"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:373
+msgid ""
+"Determines if the Tooltip hides upon clicking the reference or outside of "
+"the tippy. The behavior can depend upon the trigger events used."
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:383
+msgid "Interactive?"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:397
+msgid ""
+"Determines if the Tooltip has interactive content inside of it, so that it "
+"can be hovered over and clicked inside without hiding.<strong>It's will only "
+"appear on preview mode. Sometimes it's not working on small element.</strong>"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:407
+msgid "Trigger"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:411
+msgid "Hover (Default)"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:412
+msgid "Click"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:424
+msgid "Custom Trigger Elements?"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:436
+msgid "Custom Trigger Selector"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:438
+msgid "#trigger-id, .trigger-class"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:454
+msgid ""
+"The element(s) that the trigger event listeners are added to. Allows you to "
+"separate the Tooltip positioning from its trigger source."
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:467 modules/particles/module.php:63
+msgid "Style"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:476
+msgid "Max Width"
+msgstr ""
+
+#: modules/advanced-tooltip/module.php:625
+#: modules/pricing-table/widgets/pricing-table.php:3477
+msgid "Arrow Color"
+msgstr ""
+
+#: modules/breadcrumbs/module.php:96
+#: modules/breadcrumbs/widgets/breadcrumbs.php:188
+#: modules/breadcrumbs/widgets/breadcrumbs.php:190
+msgid "Category"
+msgstr ""
+
+#: modules/breadcrumbs/module.php:98
+#: modules/breadcrumbs/widgets/breadcrumbs.php:197
+#: modules/breadcrumbs/widgets/breadcrumbs.php:199
+msgid "Search"
+msgstr ""
+
+#: modules/breadcrumbs/module.php:165
+#: modules/breadcrumbs/widgets/breadcrumbs.php:215
+#: modules/breadcrumbs/widgets/breadcrumbs.php:217
+msgid "Tag"
+msgstr ""
+
+#: modules/breadcrumbs/module.php:169
+#: modules/breadcrumbs/widgets/breadcrumbs.php:206
+#: modules/breadcrumbs/widgets/breadcrumbs.php:208
+msgid "Articles by"
+msgstr ""
+
+#: modules/breadcrumbs/module.php:171
+#: modules/breadcrumbs/widgets/breadcrumbs.php:224
+#: modules/breadcrumbs/widgets/breadcrumbs.php:226
+msgid "Error 404"
+msgstr ""
+
+#: modules/breadcrumbs/module.php:174
+#: modules/breadcrumbs/widgets/breadcrumbs.php:170
+#: modules/breadcrumbs/widgets/breadcrumbs.php:172
+msgid "Page"
+msgstr ""
+
+#: modules/breadcrumbs/widgets/breadcrumbs.php:85
+#: modules/breadcrumbs/widgets/breadcrumbs.php:762
+msgid "Delimiter / Separator"
+msgstr ""
+
+#: modules/breadcrumbs/widgets/breadcrumbs.php:86
+msgid ""
+"Delimiter between crumbs. You can use any kind of special symboils here. "
+"Example: /, -, ~"
+msgstr ""
+
+#: modules/breadcrumbs/widgets/breadcrumbs.php:97
+msgid "Hide on Home Page"
+msgstr ""
+
+#: modules/breadcrumbs/widgets/breadcrumbs.php:107
+msgid ""
+"If you will activated this option (Hide on Home Page), that means the "
+"breadcrumbs will not appear on the home page."
+msgstr ""
+
+#: modules/breadcrumbs/widgets/breadcrumbs.php:114
+msgid "Hide Current Page"
+msgstr ""
+
+#: modules/breadcrumbs/widgets/breadcrumbs.php:123
+msgid ""
+"If you will activated this option (Hide Current Page), that means the "
+"breadcrumbs will not show the Current post/page title."
+msgstr ""
+
+#: modules/breadcrumbs/widgets/breadcrumbs.php:130
+msgid "Home Page Icon"
+msgstr ""
+
+#: modules/breadcrumbs/widgets/breadcrumbs.php:145
+msgid "Display Text"
+msgstr ""
+
+#: modules/breadcrumbs/widgets/breadcrumbs.php:152
+msgid "Home Page"
+msgstr ""
+
+#: modules/breadcrumbs/widgets/breadcrumbs.php:154
+msgid "Site Name"
+msgstr ""
+
+#: modules/breadcrumbs/widgets/breadcrumbs.php:161
+#: modules/breadcrumbs/widgets/breadcrumbs.php:163
+msgid "Blog"
+msgstr ""
+
+#: modules/breadcrumbs/widgets/breadcrumbs.php:179
+#: modules/breadcrumbs/widgets/breadcrumbs.php:181
+msgid "Shop"
+msgstr ""
+
+#: modules/breadcrumbs/widgets/breadcrumbs.php:233
+msgid "Strip Words"
+msgstr ""
+
+#: modules/breadcrumbs/widgets/breadcrumbs.php:235
+msgid ""
+"If you want to remove words from your Current Page Title, you can use this. "
+"It's only support for Pages with not parent. It's case sensitive."
+msgstr ""
+
+#: modules/breadcrumbs/widgets/breadcrumbs.php:241
+msgid "Input your words"
+msgstr ""
+
+#: modules/breadcrumbs/widgets/breadcrumbs.php:244
+msgid "widgets, test"
+msgstr ""
+
+#: modules/breadcrumbs/widgets/breadcrumbs.php:390
+#: modules/breadcrumbs/widgets/breadcrumbs.php:585
+#: modules/breadcrumbs/widgets/breadcrumbs.php:726
+#: modules/pricing-table/widgets/pricing-table.php:1674
+#: modules/pricing-table/widgets/pricing-table.php:3182
+#: modules/video-gallery/widgets/video-gallery.php:925
+msgid "Border Color"
+msgstr ""
+
+#: modules/breadcrumbs/widgets/breadcrumbs.php:427
+msgid "Home"
+msgstr ""
+
+#: modules/breadcrumbs/widgets/breadcrumbs.php:434
+msgid "Home Icon Spacing"
+msgstr ""
+
+#: modules/breadcrumbs/widgets/breadcrumbs.php:451
+msgid "Home Icon Size"
+msgstr ""
+
+#: modules/breadcrumbs/widgets/breadcrumbs.php:503
+#: modules/breadcrumbs/widgets/breadcrumbs.php:556
+msgid "Home Icon Color"
+msgstr ""
+
+#: modules/breadcrumbs/widgets/breadcrumbs.php:622
+msgid "Current Item"
+msgstr ""
+
+#: modules/dark-mode/module.info.php:7
+#: modules/dark-mode/widgets/dark-mode.php:23
+msgid "Dark Mode"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:69
+#: modules/dark-mode/widgets/dark-mode.php:100
+msgid "Light"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:70
+#: modules/dark-mode/widgets/dark-mode.php:112
+msgid "Dark"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:71
+msgid "Auto Night (Alpha Version)"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:81
+#: modules/pricing-table/widgets/pricing-table.php:971
+msgid "Select Style"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:86
+msgid "Bulb"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:87
+msgid "Dot"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:88
+#: modules/dark-mode/widgets/dark-mode.php:510
+msgid "Switcher"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:98
+msgid "Left Side Text"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:110
+msgid "Right Side Text"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:123
+msgid "Toggle Size"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:146
+msgid "Toggle Position"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:151
+#: modules/video-gallery/widgets/video-gallery.php:482
+msgid "Top Right"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:152
+#: modules/video-gallery/widgets/video-gallery.php:480
+msgid "Top Left"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:153
+#: modules/video-gallery/widgets/video-gallery.php:485
+msgid "Bottom Right"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:154
+#: modules/video-gallery/widgets/video-gallery.php:483
+msgid "Bottom Left"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:249
+msgid "Mix Color"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:271
+#: modules/review-carousel/widgets/review-carousel.php:305
+msgid "Additional"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:279
+msgid "Animation Time (ms)"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:294
+msgid "Save In Cookies"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:304
+msgid "Auto Match OsTheme"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:314
+msgid "Ignore Elements"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:329
+msgid ""
+"Note: Input the Class/ID names where you don’t want to apply the dark mode."
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:362
+msgid "Button Color Dark"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:373
+#: modules/dark-mode/widgets/dark-mode.php:475
+#: modules/dark-mode/widgets/dark-mode.php:587
+#: modules/review-carousel/widgets/review-carousel.php:617
+#: modules/review-carousel/widgets/review-carousel.php:1083
+#: modules/review-carousel/widgets/review-carousel.php:1192
+#: modules/review-carousel/widgets/review-carousel.php:1287
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:452
+#: modules/video-gallery/widgets/video-gallery.php:1055
+#: modules/video-gallery/widgets/video-gallery.php:1187
+#: modules/video-gallery/widgets/video-gallery.php:1270
+msgid "Active"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:380
+msgid "Button Color Light"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:395
+#: modules/pricing-table/widgets/pricing-table.php:506
+#: modules/pricing-table/widgets/pricing-table.php:548
+#: modules/pricing-table/widgets/pricing-table.php:928
+#: modules/pricing-table/widgets/pricing-table.php:957
+#: modules/pricing-table/widgets/pricing-table.php:3437
+msgid "Text"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:406
+msgid "Side Text Spacing"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:451
+#: modules/dark-mode/widgets/dark-mode.php:482
+msgid "Left Text Color"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:462
+#: modules/dark-mode/widgets/dark-mode.php:493
+msgid "Right Text Color"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:521
+#: modules/pricing-table/widgets/pricing-table.php:1512
+#: modules/pricing-table/widgets/pricing-table.php:2601
+#: modules/review-carousel/widgets/review-carousel.php:1342
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:658
+#: modules/video-gallery/widgets/video-gallery.php:93
+#: modules/video-gallery/widgets/video-gallery.php:1399
+msgid "Size"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:549
+#: modules/dark-mode/widgets/dark-mode.php:595
+msgid "S L I D E R"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:568
+#: modules/dark-mode/widgets/dark-mode.php:613
+msgid "B A C K G R O U N D"
+msgstr ""
+
+#: modules/dark-mode/widgets/dark-mode.php:641
+msgid ""
+"<div class=\"sa-border sa-rounded sa-p-3 sa-text-center\"><strong>Dark Mode "
+"Widget</strong> Placed Here, this text will not visible in FrontEnd of your "
+"website.</div>"
+msgstr ""
+
+#: modules/particles/module.info.php:5 modules/particles/module.php:39
+msgid "Particle Effects"
+msgstr ""
+
+#: modules/particles/module.php:67
+msgid "Polygon"
+msgstr ""
+
+#: modules/particles/module.php:68
+msgid "Nasa"
+msgstr ""
+
+#: modules/particles/module.php:69
+msgid "Bubble"
+msgstr ""
+
+#: modules/particles/module.php:70
+msgid "Snow"
+msgstr ""
+
+#: modules/particles/module.php:84
+msgid "Move Direction"
+msgstr ""
+
+#: modules/particles/module.php:88
+#: modules/pricing-table/widgets/pricing-table.php:246
+#: modules/pricing-table/widgets/pricing-table.php:1019
+#: modules/pricing-table/widgets/pricing-table.php:2479
+msgid "None"
+msgstr ""
+
+#: modules/particles/module.php:90
+msgid "Top-right"
+msgstr ""
+
+#: modules/particles/module.php:92
+msgid "Bottom-right"
+msgstr ""
+
+#: modules/particles/module.php:94
+msgid "Bottom-left"
+msgstr ""
+
+#: modules/particles/module.php:96
+msgid "Top-left"
+msgstr ""
+
+#: modules/particles/module.php:111
+msgid "Particles Color"
+msgstr ""
+
+#: modules/particles/module.php:125
+msgid "Particle Opacity"
+msgstr ""
+
+#: modules/particles/module.php:146
+msgid "Additional Customize"
+msgstr ""
+
+#: modules/particles/module.php:161
+msgid "Particle Quantity"
+msgstr ""
+
+#: modules/particles/module.php:183
+msgid "Particle Size"
+msgstr ""
+
+#: modules/particles/module.php:204
+msgid "Move Speed"
+msgstr ""
+
+#: modules/particles/module.php:225
+msgid "Enable Interactivity"
+msgstr ""
+
+#: modules/particles/module.php:239
+msgid "Custom Particles"
+msgstr ""
+
+#: modules/particles/module.php:255
+msgid "Z-index"
+msgstr ""
+
+#: modules/pricing-table/module.info.php:7
+#: modules/pricing-table/widgets/pricing-table.php:30
+msgid "Pricing Table"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:67
+#: modules/pricing-table/widgets/pricing-table.php:1021
+#: modules/pricing-table/widgets/pricing-table.php:1222
+msgid "Header"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:77
+msgid "Basic"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:78
+msgid "Type package name"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:96
+msgid "Show Sub Title"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:105
+#: modules/pricing-table/widgets/pricing-table.php:1406
+msgid "Sub Title"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:108
+msgid "Type your sub title here"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:119
+msgid "Sub Title HTML Tag"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:142
+msgid "Show Image / Icon"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:225
+#: modules/pricing-table/widgets/pricing-table.php:1022
+#: modules/pricing-table/widgets/pricing-table.php:1694
+msgid "Pricing"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:233
+msgid "Show Price"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:242
+msgid "Currency Symbol"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:247
+msgid "Dollar"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:248
+msgid "Baht"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:249
+msgid "Euro"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:250
+msgid "Franc"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:251
+msgid "Guilder"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:252
+msgid "Lira"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:253
+msgid "Krona"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:254
+msgid "Peseta"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:255
+msgid "Peso"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:256
+msgid "Pound Sterling"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:257
+msgid "Real"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:258
+msgid "Ruble"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:259
+msgid "Rupee"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:260
+msgid "Rupee (Indian)"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:261
+msgid "BDT"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:262
+msgid "Shekel"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:263
+msgid "Yen/Yuan"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:264
+msgid "Won"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:276
+msgid "Custom Symbol"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:289
+msgid "Price"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:302
+msgid "Price Postfix"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:316
+msgid "Show Price Prefix"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:325
+msgid "Sale Price"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:337
+msgid "Original Price"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:349
+msgid "Period"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:352
+msgid "/ mo"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:363
+msgid "Display Position"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:367
+msgid "Inline"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:415
+#: modules/pricing-table/widgets/pricing-table.php:1023
+#: modules/pricing-table/widgets/pricing-table.php:2331
+msgid "Features"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:489
+#: modules/video-gallery/widgets/video-gallery.php:270
+msgid "List Title"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:498
+msgid "Title Tail"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:515
+#: modules/pricing-table/widgets/pricing-table.php:764
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:167
+#: modules/video-gallery/widgets/video-gallery.php:138
+#: modules/video-gallery/widgets/video-gallery.php:159
+#: modules/video-gallery/widgets/video-gallery.php:180
+msgid "Link"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:517
+#: modules/pricing-table/widgets/pricing-table.php:766
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:173
+#: modules/video-gallery/widgets/video-gallery.php:301
+msgid "https://your-link.com"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:532
+#: modules/pricing-table/widgets/pricing-table.php:3294
+msgid "Tooltip"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:557
+msgid "Tooltip Placement"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:576
+msgid "Feature List"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:581
+msgid "List Title #1"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:582
+#: modules/pricing-table/widgets/pricing-table.php:591
+#: modules/pricing-table/widgets/pricing-table.php:600
+#: modules/pricing-table/widgets/pricing-table.php:609
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:590
+msgid "List Title #2"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:599
+msgid "List Title #3"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:608
+msgid "List Title #4"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:624
+msgid "Show Tail"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:633
+msgid "Show Text"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:641
+msgid "Show Tooltip"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:690
+msgid "Content Alignment"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:738
+#: modules/pricing-table/widgets/pricing-table.php:1024
+#: modules/pricing-table/widgets/pricing-table.php:3010
+msgid "Footer"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:747
+#: modules/pricing-table/widgets/pricing-table.php:3053
+msgid "B U T T O N"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:754
+msgid "Button Text"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:756
+msgid "Choose Plan"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:779
+msgid "Full Width"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:828
+msgid "Icon Position"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:833
+msgid "Before"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:837
+msgid "After"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:853
+msgid "Icon Spacing"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:875
+msgid "Button ID"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:881
+msgid "Add your custom id WITHOUT the Pound key. e.g: my-id"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:883
+#, php-format
+msgid ""
+"Please make sure the ID is unique and not used elsewhere on the page this "
+"form is displayed. This field allows %1$sA-z 0-9%2$s & underscore chars "
+"without spaces."
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:898
+msgid "Advanced Attributes"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:907
+msgid "Custom Attributes"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:910
+msgid ""
+"Set custom attributes for the link element. Separate attribute keys from "
+"values using the | (pipe) character. Separate key-value pairs with a || "
+"(double pipe)."
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:920
+#: modules/pricing-table/widgets/pricing-table.php:3240
+msgid "F O O T E R  T E X T"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:930
+msgid "This is footer text."
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:940
+#: modules/pricing-table/widgets/pricing-table.php:3490
+msgid "Ribbon"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:948
+msgid "Show Ribbon"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:959
+msgid "Popular Plan"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:975
+msgid "Style 1"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:986
+#: modules/pricing-table/widgets/pricing-table.php:1825
+#: modules/pricing-table/widgets/pricing-table.php:1933
+#: modules/pricing-table/widgets/pricing-table.php:2042
+#: modules/pricing-table/widgets/pricing-table.php:2155
+msgid "Position"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:1005
+msgid "Custom Layout"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:1015
+msgid "Select Layout"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:1020
+msgid "Icon / Image"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:1061
+msgid "Common"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:1107
+msgid "Tooltip Settings"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:1122
+msgid "Shift-Away"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:1123
+msgid "Shift-Toward"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:1144
+msgid "X Offset"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:1171
+msgid "Y Offset"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:1210
+msgid "Trigger on Click"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:1212
+msgid ""
+"By default tooltip will show on hover, if you will activate this option "
+"tooltip will show on click."
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:1252
+#: modules/pricing-table/widgets/pricing-table.php:1727
+#: modules/pricing-table/widgets/pricing-table.php:1750
+#: modules/pricing-table/widgets/pricing-table.php:1858
+#: modules/pricing-table/widgets/pricing-table.php:1966
+#: modules/pricing-table/widgets/pricing-table.php:2076
+#: modules/pricing-table/widgets/pricing-table.php:2188
+#: modules/pricing-table/widgets/pricing-table.php:2361
+#: modules/pricing-table/widgets/pricing-table.php:3040
+#: modules/pricing-table/widgets/pricing-table.php:3248
+msgid "Margin"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:1740
+msgid "P R I C E"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:1776
+#: modules/pricing-table/widgets/pricing-table.php:1884
+#: modules/pricing-table/widgets/pricing-table.php:1992
+#: modules/pricing-table/widgets/pricing-table.php:2103
+#: modules/pricing-table/widgets/pricing-table.php:2214
+msgid "Hover Text Color"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:1815
+msgid "P O S T F I X"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:1833
+#: modules/pricing-table/widgets/pricing-table.php:1941
+#: modules/pricing-table/widgets/pricing-table.php:2050
+#: modules/pricing-table/widgets/pricing-table.php:2163
+msgid "Middle"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:1923
+msgid "P R E F I X"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:2031
+msgid "O R I G I N A L - P R I C E"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:2145
+msgid "P E R I O D"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:2252
+msgid "Advanced Design"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:2374
+msgid "L I S T"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:2417
+#: modules/review-carousel/widgets/review-carousel.php:1359
+msgid "Space Between"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:2475
+msgid "Divider Style"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:2480
+#: modules/review-carousel/widgets/review-carousel.php:237
+msgid "Solid"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:2481
+msgid "Dashed"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:2482
+msgid "Dotted"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:2483
+msgid "Double"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:2511
+msgid "Thickness"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:2593
+msgid "M E D I A"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:2673
+msgid "I C O N"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:2751
+msgid "T I T L E"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:2792
+#: modules/pricing-table/widgets/pricing-table.php:2993
+msgid "Hover Color"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:2822
+msgid "T A I L"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:2956
+msgid "T E X T"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:3468
+msgid "A R R O W - S T Y L E"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:3501
+msgid "Fold Part"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:3524
+msgid "Vertical Spacing"
+msgstr ""
+
+#: modules/pricing-table/widgets/pricing-table.php:4013
+msgid "Doing something wrong!"
+msgstr ""
+
+#: modules/review-carousel/module.info.php:7
+#: modules/review-carousel/widgets/review-carousel.php:35
+#: modules/review-carousel/widgets/review-carousel.php:684
+msgid "Review Carousel"
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:72
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:65
+msgid "Columns"
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:75
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:68
+msgid "1 Column"
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:76
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:69
+msgid "2 Columns"
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:77
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:70
+msgid "3 Columns"
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:78
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:71
+msgid "4 Columns"
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:79
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:72
+msgid "5 Columns"
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:80
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:73
+msgid "6 Columns"
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:119
+#: modules/review-carousel/widgets/review-carousel.php:1011
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:143
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:799
+msgid "Name"
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:121
+msgid "Type your Name here"
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:130
+msgid "Name HTML Tag"
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:140
+#: modules/review-carousel/widgets/review-carousel.php:1116
+msgid "Designation"
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:143
+msgid "Type your Designation here"
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:154
+msgid "Designation HTML Tag"
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:170
+msgid "Type your review here"
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:171
+msgid "You can also put basic html tags on this input field."
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:182
+#: modules/review-carousel/widgets/review-carousel.php:202
+#: modules/review-carousel/widgets/review-carousel.php:1311
+msgid "Rating"
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:189
+msgid "Rating Scale"
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:233
+msgid "Unmarked Style"
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:241
+msgid "Outline"
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:257
+msgid "Review List"
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:313
+msgid "Show Designation"
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:322
+msgid "Show Photo"
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:378
+msgid "Review Position"
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:382
+msgid "Before Rating"
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:383
+msgid "After Rating"
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:416
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:252
+msgid "Carousel Item"
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:453
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:288
+msgid "Match Spacing"
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:692
+msgid "Text Box Padding"
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:706
+msgid "Photo"
+msgstr ""
+
+#: modules/review-carousel/widgets/review-carousel.php:1389
+msgid "Unmarked Color"
+msgstr ""
+
+#: modules/testimonial-carousel/module.info.php:7
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:34
+msgid "Testimonial Carousel"
+msgstr ""
+
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:113
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:772
+msgid "Reviewer"
+msgstr ""
+
+#: modules/testimonial-carousel/widgets/testimonial-carousel.php:184
+msgid "Testimonial List"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:74
+#: modules/video-gallery/widgets/video-gallery.php:402
+msgid "Vertical"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:78
+#: modules/video-gallery/widgets/video-gallery.php:401
+msgid "Horizontal"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:116
+msgid "Video"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:123
+msgid "Source"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:127
+msgid "YouTube"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:128
+msgid "Vimeo"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:129
+msgid "Dailymotion"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:130
+msgid "Self Hosted"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:147
+#: modules/video-gallery/widgets/video-gallery.php:168
+#: modules/video-gallery/widgets/video-gallery.php:189
+#: modules/video-gallery/widgets/video-gallery.php:226
+msgid "Enter your URL"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:201
+msgid "External URL"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:212
+msgid "URL"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:237
+msgid "Choose File"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:280
+msgid "Credit / Subtitle"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:282
+msgid "John Doe"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:291
+msgid "Add Credit URL"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:299
+msgid "Credit URL"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:317
+#: modules/video-gallery/widgets/video-gallery.php:324
+msgid "Poster"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:345
+msgid "Youtube Video Title #1"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:346
+msgid "by Sumaiya A'lia Nassar"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:349
+msgid "Vimeo Video Title #2"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:350
+msgid "by Ahmad Fawzan"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:354
+msgid "Dailymotion Video Title #3"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:355
+msgid "by Fatin Rushdi "
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:359
+msgid "Remote Video Title #4"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:360
+msgid "by Mike Ross"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:366
+msgid "Youtube Video Title #5"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:367
+msgid "by John Doe"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:370
+msgid "Youtube Video Title #6"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:371
+msgid "by Mike Doe"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:374
+msgid "Youtube Video Title #7"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:375
+msgid "by Michael N. Chiles"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:389
+msgid "Player Settings"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:397
+msgid "Direction"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:410
+#: modules/video-gallery/widgets/video-gallery.php:556
+msgid "Loop"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:419
+msgid "Slide Speed (sec)"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:438
+msgid "Transition Effect"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:442
+msgid "Slide"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:443
+msgid "Fade"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:444
+msgid "Coverflow"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:453
+msgid "Show Title"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:476
+msgid "Text Position"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:481
+msgid "Top Center"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:484
+msgid "Bottom Center"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:508
+msgid "Text Alignment"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:537
+msgid "Show Play Button On Hover"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:548
+msgid "Playlist Settings"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:565
+msgid "Mouse Wheel"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:574
+msgid "Free Mode"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:593
+msgid "Show Scrollbar"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:602
+msgid "Show Navigation"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:613
+msgid "Video Player"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:621
+msgid "Poster Overlay"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:632
+#: modules/video-gallery/widgets/video-gallery.php:1003
+msgid "Text Padding"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:647
+msgid "Video Title"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:708
+msgid "Video Credit/Subtitle"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:787
+msgid "Play Button"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:965
+msgid "Playlist"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:973
+msgid "Separator Size"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:992
+msgid "Separator Color"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:1078
+msgid "Thumbnail"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:1127
+msgid "Playlist Title"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:1211
+msgid "Playlist Credit/Subtitle"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:1294
+msgid "Playlist Navigation"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:1303
+msgid "Navigation Size"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:1390
+msgid "Playlist Scrollbar"
+msgstr ""
+
+#: modules/video-gallery/widgets/video-gallery.php:1429
+msgid "Drag Color"
+msgstr ""
